@@ -5,3 +5,10 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Notas
 Pueden hacer lo que quieran...
+
+### Actualizado desde github
+Mensaje editado desde github!!!!!
+
+### HOLAmundo Cambio desde GITHUB
+### HOLAmundo Desde local
+Cambios desde local
